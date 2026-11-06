@@ -39,3 +39,10 @@
   doi: "10.5281/zenodo.22772427"
   url: "https://zenodo.org/records/22772427"
   description: "Correspondances formelles entre le modèle de Kuramoto, l'équation de Schrödinger et les jonctions Josephson."
+
+  - title: "Synchronisation de phase et variabilité cardiaque : le modèle de Kuramoto comme cadre théorique pour la VFC"
+  date: "2026-11"
+  type: "Preprint"
+  description: "Cadre théorique établissant une correspondance formelle entre le modèle de synchronisation d'oscillateurs de phase de Kuramoto et l'analyse de la variabilité de la fréquence cardiaque (VFC)."
+  doi: "10.5281/zenodo.24004134"
+  url: "https://zenodo.org/records/24004134"
