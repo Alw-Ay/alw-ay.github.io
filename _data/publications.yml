@@ -1,9 +1,9 @@
 - title: "Synchronisation de phase et variabilité cardiaque : le modèle de Kuramoto comme cadre théorique pour la VFC"
   type: "Article de recherche"
   date: "2026-11-06"
-  doi: "10.5281/zenodo.xxxxxx"
-  url: "https://zenodo.org/records/xxxxxx"
-  description: "Mise en correspondance formelle entre le modèle de Kuramoto et l'analyse VFC, identification du nœud sinusal à un oscillateur de phase."
+  doi: "10.5281/zenodo.24004134"
+  url: "https://zenodo.org/records/24004134"
+  description: "Cadre théorique établissant une correspondance formelle entre le modèle de synchronisation d'oscillateurs de phase de Kuramoto et l'analyse de la variabilité de la fréquence cardiaque (VFC)."
 
 - title: "Entraînement lumineux et sonore θ/α et états hypnagogiques : un modèle d'oscillateur forcé, et une spéculation prudente sur un éventuel étage quantique"
   type: "Article de recherche"
@@ -39,10 +39,3 @@
   doi: "10.5281/zenodo.22772427"
   url: "https://zenodo.org/records/22772427"
   description: "Correspondances formelles entre le modèle de Kuramoto, l'équation de Schrödinger et les jonctions Josephson."
-
-  - title: "Synchronisation de phase et variabilité cardiaque : le modèle de Kuramoto comme cadre théorique pour la VFC"
-  date: "2026-11"
-  type: "Preprint"
-  description: "Cadre théorique établissant une correspondance formelle entre le modèle de synchronisation d'oscillateurs de phase de Kuramoto et l'analyse de la variabilité de la fréquence cardiaque (VFC)."
-  doi: "10.5281/zenodo.24004134"
-  url: "https://zenodo.org/records/24004134"
